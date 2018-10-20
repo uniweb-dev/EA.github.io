@@ -4,11 +4,11 @@
 		<title>Engineering Design Charlie18</title>
 	</head>
 	<body>
-		<h1>Welcome to My Charlie18 Blog!</h1>
-		<p>This is a fan page for wikiHow. Make yourself at home!</p>
-		<h2>Important Dates</h2>
-		<p><i>January 15, 2019</i> - wikiHow's Birthday</p>
-		<h2>Links</h2>
-			<p>Here is a link to wikiHow:  <a href= "www.wikihow.com">  www.wikihow.com</a></p>
+		<h1>Welcome to My Charlie18!</h1>
+		<p>Engineering Design Group 3</p>
+		<h2>Introduction Page</h2>
+		<p><i>October 18, 2018</i> - Team formation</p>
+		<h2>Team Members</h2>
+			<p>Asri (Asri.17@ichat.sp.edu.sg) <img src= C:\Users\mmdas\OneDrive\Pictures\eaphoto.jpg></p>
 	</body>
 </html>
