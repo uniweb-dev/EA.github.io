@@ -1,14 +1,16 @@
 body {
-    background-color: darkslategrey;
-    color: azure;
-    font-size: 1.1em;
+    background-color: darkslategrey; color: azure; font-size: 16pt; font-family:arial;
 }
 h1 {
     color: coral;
 }
+a {
+    text-decoration:none; color:white;
+}
 #intro {
     font-size: 1.3em;
 }
+
 .colorful {
     color: orange;
 }
